@@ -64,17 +64,17 @@ $(document).ready(function() {
   	=============================================== */ 
 
 
-$(document).ready(function() {
+// $(document).ready(function() {
  
-  var owl = $("#owl-testi");
+//   var owl = $("#owl-testi");
  
-  owl.owlCarousel({
-    autoPlay: 3000, //Set AutoPlay to 3 seconds
-    singleItem : true,
-    transitionStyle : "fade"
-  });
+//   owl.owlCarousel({
+//     autoPlay: 3000, //Set AutoPlay to 3 seconds
+//     singleItem : true,
+//     transitionStyle : "fade"
+//   });
  
-});
+// });
  
  
  /* ==============================================
@@ -263,19 +263,19 @@ $(document).ready(function() {
   	     Parallex-javascript
   	=============================================== */
 	
-	$('#testimonials').stellar();
-$('#slider-parallax').stellar();
+	// $('#testimonials').stellar();
+// $('#slider-parallax').stellar();
 
 
     $(function(){
 
-      $.stellar({
+      // $.stellar({
 
-        horizontalScrolling: false,
+      //   horizontalScrolling: false,
 
-        verticalOffset: 40
+      //   verticalOffset: 40
 
-      });
+      // });
 
     });
 
